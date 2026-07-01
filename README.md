@@ -181,22 +181,18 @@ This bot uses [`@lordmega/baileys`](https://www.npmjs.com/package/@lordmega/bail
 Create a `.env` file in the same directory as `mega.js` with the following variables:
 
 ```env
-GH_TOKEN=ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-GH_OWNER=LORDMEGA-MD
-GH_REPO=mega-core
-GH_TAG=V1.0
+PROXY_URL=https://megabothost.onrender.com/download
+PROXY_SECRET=your-proxy-secret-here
 GH_ASSET=MEGABOT5.tar.gz
 ```
 
 | Variable | Description |
 |---|---|
-| `GH_TOKEN` | GitHub Personal Access Token with `repo` scope, used to pull the private release asset |
-| `GH_OWNER` | GitHub org/user that owns the release repo |
-| `GH_REPO` | Name of the private repo hosting the bot release |
-| `GH_TAG` | Release tag to pull the asset from |
-| `GH_ASSET` | Filename of the release asset (tar.gz archive) |
+| `PROXY_URL` | URL of the download proxy that serves the bot release archive |
+| `PROXY_SECRET` | Bearer secret used to authenticate with the proxy (min. 10 characters) |
+| `GH_ASSET` | Filename the launcher uses for the downloaded archive (tar.gz) |
 
-> ⚠️ Never commit your real `GH_TOKEN` to a public repo or share it — treat it like a password. Generate one at [github.com/settings/tokens](https://github.com/settings/tokens) with only the scopes you need.
+> ⚠️ Never commit your real `PROXY_SECRET` to a public repo or share it — treat it like a password.
 
 ### Step-by-Step Setup
 
@@ -215,7 +211,7 @@ GH_ASSET=MEGABOT5.tar.gz
     node mega.js
     ```
 
-    The launcher downloads the bot release, installs dependencies, and starts the bot automatically.
+    The launcher installs dependencies, downloads the bot release from the proxy, and starts the bot automatically.
 
 4. **Scan the QR code / enter pair code:**
 
