@@ -4,13 +4,13 @@ A WHATSAPP MULTI-SESSIONAL BOT UNDER 1 SERVER, NO OBFUSCATION FREE BOT BY LORDME
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Sans&size=50&pause=1000&color=56fg00&center=true&width=910&height=100&lines=Mega-Bot;Multi+Device+Wha+Bot;Coded+By+LORDMEGA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Sans&size=50&pause=1000&color=56fg00&center=true&width=910&height=100&lines=Mega-Bot;Runs+Under+Mega+Baileys;Coded+By+LORDMEGA" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
   <a href="https://www.npmjs.com/package/@lordmega/baileys"> 
-    <img src="https://files.catbox.moe/7vx45a.png" alt="Mega Bot" height="300"> 
+    <img src="https://files.catbox.moe/4blasm.jpg" alt="Mega Bot" height="300"> 
   </a> 
 </div>
 
@@ -36,7 +36,7 @@ A WHATSAPP MULTI-SESSIONAL BOT UNDER 1 SERVER, NO OBFUSCATION FREE BOT BY LORDME
 Click the button below to fork the Mega Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/LORDMEGA-MD/MegaBot/fork">
+  <a href="https://github.com/LORDMEGA-MD/MEGABOT5/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -138,8 +138,8 @@ This bot uses [`@lordmega/baileys`](https://www.npmjs.com/package/@lordmega/bail
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/LORDMEGA-MD/MegaBot.git
-    cd MegaBot
+    git clone https://github.com/LORDMEGA-MD/MEGABOT5.git
+    cd MEGABOT5
     ```
 
 2. **Install the dependencies:**
@@ -162,13 +162,13 @@ This bot uses [`@lordmega/baileys`](https://www.npmjs.com/package/@lordmega/bail
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/LORDMEGA-MD/MegaBot/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/LORDMEGA-MD/MEGABOT5/blob/main/LICENSE) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/LORDMEGA-MD/MegaBot/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/LORDMEGA-MD/MEGABOT5/issues).
 
 ---
 
