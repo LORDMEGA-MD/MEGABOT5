@@ -94,7 +94,41 @@ For further customization and setup guidance, click the button below:
 ---
 
 ## ⚙️ Features
-✨ internal dm Features 📢 Dynamic GStatus Instantly publish WhatsApp Group Status by simply replying to any message or supported media. Supports text, images, videos, stickers, documents, audio, voice notes, and other supported media types. Dynamically post Group Status across one or multiple groups using their JIDs. Intelligent media processing with automatic handling for supported formats. 👥 MegaTag Mention every group participant using a single message with hidden mentions. Works with text and every supported media type, including: 🖼️ Images 🎥 Videos 🎵 Audio & Voice Notes 🧩 Static & Animated Stickers 📄 Documents Delivers notifications without filling the chat with visible @mentions. 👑 MegaTagAdmin Hidden tagging designed exclusively for group administrators. Supports text, images, videos, audio, voice notes, stickers, and documents. Notifies all admins through one clean message while keeping mentions hidden. 👻 MegaTagVO Ghost-tag every participant inside View Once media. Supports images, videos, stickers, documents, audio, and voice notes. Hidden mentions remain embedded within the View Once message for a clean chat experience. 👑 MegaTagAdminVO Ghost-tag only group administrators using View Once media. Fully supports images, videos, stickers, documents, audio, and voice notes. Delivers discreet admin notifications through hidden mentions. 📋 Additional Built-in Commands TagAll — Traditional visible @mention command for all group participants. HideTag — Standard hidden mention command for group announcements. 
+✨  Dynamic GStatus Instantly publish WhatsApp Group Status by simply
+ replying to any message or 
+supported media. Supports
+ text, images, videos, stickers, 
+documents, audio, voice 
+notes, and other supported media types.
+
+🎨 Dynamically post Group Status across one or multiple groups using their JIDs.
+ Intelligent media processing with
+ automatic handling for supported
+ formats. 
+
+👥 MegaTag 
+Mention every group participant using a single message
+ with hidden mentions. Works with
+ text and every supported media type, including: 
+🖼️ Images 
+🎥 Videos 
+🎵 Audio & Voice Notes
+ 🧩 Static & Animated Stickers 
+📄 Documents
+ Delivers notifications without filling the chat with visible @mentions.
+
+ 👑 MegaTagAdmin 
+Hidden tagging designed exclusively for group administrators.
+ Supports 
+text, images, videos, audio, voice notes, stickers, and documents. 
+Notifies all admins through one clean message while keeping mentions hidden. 
+
+👻 MegaTagVO
+ Ghost-tag every participant inside View Once media. Supports images, videos, stickers, documents, audio, and voice notes. Hidden mentions remain embedded within the View Once message for a clean chat experience. 
+
+👑 MegaTagAdminVO Ghost-tag only group administrators using View Once media. Fully supports images, videos, stickers, documents, audio, and voice notes. Delivers discreet admin notifications through hidden mentions. 
+
+📋 Additional Built-in Commands TagAll — Traditional visible @mention command for all group participants. HideTag — Standard hidden mention command for group announcements. 
 
 - **Tag all group members** with the `.tagall` command
 - **Admin restricted usage** (only group admins can use certain commands)
