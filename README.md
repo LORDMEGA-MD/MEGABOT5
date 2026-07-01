@@ -1,7 +1,3 @@
-# 🗿 lordmega baileys
-
-[![Logo](https://files.catbox.moe/7vx45a.png)](https://www.npmjs.com/package/@lordmega/baileys)
-
 # MEGABOT5
 
 A WHATSAPP MULTI-SESSIONAL BOT UNDER 1 SERVER, NO OBFUSCATION FREE BOT BY LORDMEGA-MD
@@ -13,8 +9,8 @@ A WHATSAPP MULTI-SESSIONAL BOT UNDER 1 SERVER, NO OBFUSCATION FREE BOT BY LORDME
 </div> 
 
 <div align="center"> 
-  <a href="https://wa.me/256783991705?text=%3E%20Hello,%20Mega𓃵"> 
-    <img src="https://github.com/LORDMEGA-MD/MegaBot/blob/main/assets/bot_image.jpg" alt="Mega Bot" height="300"> 
+  <a href="https://www.npmjs.com/package/@lordmega/baileys"> 
+    <img src="https://files.catbox.moe/7vx45a.png" alt="Mega Bot" height="300"> 
   </a> 
 </div>
 
@@ -23,6 +19,12 @@ A WHATSAPP MULTI-SESSIONAL BOT UNDER 1 SERVER, NO OBFUSCATION FREE BOT BY LORDME
   <img src="https://img.shields.io/github/stars/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
   <img src="https://img.shields.io/github/watchers/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
+</div>
+
+<div align="center">
+  <a href="https://www.npmjs.com/package/@lordmega/baileys">
+    <img src="https://img.shields.io/badge/lordmega%20baileys-🗿-black?style=for-the-badge" alt="lordmega baileys"/>
+  </a>
 </div>
 
 ---
