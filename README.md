@@ -8,10 +8,18 @@ A WHATSAPP MULTI-SESSIONAL BOT UNDER 1 SERVER, NO OBFUSCATION FREE BOT BY LORDME
   </a> 
 </div> 
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=gradient&customColorList=0,2,4&section=header" width="100%"/>
+</div>
+
 <div align="center"> 
   <a href="https://www.npmjs.com/package/@lordmega/baileys"> 
-    <img src="https://files.catbox.moe/4blasm.jpg" alt="Mega Bot" height="300"> 
+    <img src="https://files.catbox.moe/4blasm.jpg" alt="Mega Bot" width="480" style="border-radius:12px;"> 
   </a> 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=gradient&customColorList=4,2,0&section=header" width="100%"/>
 </div>
 
 <div align="center">
