@@ -272,4 +272,3 @@ This project contains code from various open source projects:
 - Baileys (MIT License)
 - @lordmega/baileys (MIT License)
 - Other libraries as listed in package.json
-
